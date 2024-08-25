@@ -7,4 +7,4 @@
 | <h3 align="left"> 🔝 Top Contributed Repository </h3> <img src="https://github-contributor-stats.vercel.app/api?username=JeserylMae&limit=5&theme=radical&combine_all_yearly_contributions=true" width="100%"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeserylMae&theme=radical&hide_border=false" width="100%" /> |
 
 
-<img src="https://github.com/JeserylMae/JeserylMae/blob/main/yyy.png" width="100%" />
+<img src="https://github.com/JeserylMae/JeserylMae/blob/main/Computer%20Science.png" width="100%" />
