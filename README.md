@@ -1,4 +1,4 @@
-<img src="https://github.com/JeserylMae/JeserylMae/blob/main/177205937-8621cc20-53dcff.png" width="100%" />
+<img src="https://github.com/JeserylMae/JeserylMae/blob/main/3.png" width="100%" />
 
 | <h1 align="left"> 💫 About Me: </h1> <p align="left"> 🖐️Hi! I am Jesay, a computer science student <br> who's dedicated to learn programming. <br> 📖 I’m currently learning Python & C++<br>💻 How to reach me: 7mercadejas.jryll007@gmail.com</p> | <h3 align="left"> ✍️ Random Dev Quote </h3> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/> |
 | -------- |:------------:|
