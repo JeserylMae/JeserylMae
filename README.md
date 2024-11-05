@@ -11,8 +11,7 @@ I'm a third-year computer science student with a strong ambition to become a sof
 
 <h3> 📲Socials:</h3>
 | <img src="https://github.com/JeserylMae/JeserylMae/blob/main/assets/icons8-facebook-24.png"/> | LinkedIn | Jeseryl Mae D. Comia |
-
-| dhfgjsd | dsjhf |
+| dhfgjsd | dsjhf | jfhe |
 
 | <h1 align="left"> 💫 About Me: </h1> <p align="left"> 🖐️Hi! I am Jesay, a computer science student <br> who's dedicated to learn programming. <br> 📖 I’m currently learning Python & C++<br>💻 How to reach me: 7mercadejas.jryll007@gmail.com</p> | <h3 align="left"> ✍️ Random Dev Quote </h3> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/> |
 | -------- |:------------:|
