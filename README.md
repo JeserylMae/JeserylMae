@@ -8,6 +8,8 @@
 I'm a third-year computer science student with a strong ambition to become a software engineer. With a foundation in cybersecurity and a passion for design, I aspire to create applications that are not only visually engaging but also secure, ensuring both functionality and protection for users.
 </p>
 
+
+<h3> ![image](https://github.com/user-attachments/assets/fbd08edb-7033-4912-a687-6960ad1d5136) Socials:</h3>
 | <h1 align="left"> 💫 About Me: </h1> <p align="left"> 🖐️Hi! I am Jesay, a computer science student <br> who's dedicated to learn programming. <br> 📖 I’m currently learning Python & C++<br>💻 How to reach me: 7mercadejas.jryll007@gmail.com</p> | <h3 align="left"> ✍️ Random Dev Quote </h3> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/> |
 | -------- |:------------:|
 | <h2 align="left"> 🌐 Socials: </h2> [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Jesay) <br> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) <b> Jeseryl Mae Comia </b> <br> ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white) <b> Jesayryll Mercadejas </b> <p align="center" ><img src="https://github.com/JeserylMae/JeserylMae/blob/main/import-cfvost.png" width="450px" /> </p> | <h1 align="left"> 📊 GitHub Stats: </h1> <img src="https://github-readme-stats-r02xcyfd2-jeserylmae.vercel.app/api/top-langs/?username=JeserylMae&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="100%"/> |
