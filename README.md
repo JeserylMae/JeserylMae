@@ -10,7 +10,7 @@ I'm a third-year computer science student with a strong ambition to become a sof
 
 
 <h3> 📲Socials:</h3>
-<table>
+<table style="width: 100%; border: none;">
   <tr>
     <td> <img src="https://github.com/JeserylMae/JeserylMae/blob/main/assets/icons8-facebook-24.png"/> </td>
     <td> Facebook </td>
