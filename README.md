@@ -1,4 +1,12 @@
+<!-- heder image -->
+<h1> 📍Hi! I'm Jesayyy👋🏻🐽</h1>
 <img src="https://github.com/JeserylMae/JeserylMae/blob/main/3.png" width="100%" />
+
+
+<h3> 🔖About Me:</h3>
+<p> 
+I'm a third-year computer science student with a strong ambition to become a software engineer. With a foundation in cybersecurity and a passion for design, I aspire to create applications that are not only visually engaging but also secure, ensuring both functionality and protection for users.
+</p>
 
 | <h1 align="left"> 💫 About Me: </h1> <p align="left"> 🖐️Hi! I am Jesay, a computer science student <br> who's dedicated to learn programming. <br> 📖 I’m currently learning Python & C++<br>💻 How to reach me: 7mercadejas.jryll007@gmail.com</p> | <h3 align="left"> ✍️ Random Dev Quote </h3> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/> |
 | -------- |:------------:|
