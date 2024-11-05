@@ -10,19 +10,46 @@ I'm a third-year computer science student with a strong ambition to become a sof
 
 
 <h3> 📲Socials:</h3>
-<table style="width: 100%; border: 0px solid black;">
+<table>
   <tr>
-    <td> <img src="https://github.com/JeserylMae/JeserylMae/blob/main/assets/icons8-facebook-24.png"/> </td>
-    <td> Facebook </td>
-    <td> Jeseryl Mae D. Comia </td>
+    <td> <img src="https://github.com/JeserylMae/JeserylMae/blob/main/assets/icons8-linkedin-24.png"/> </td>
+    <td><a href="https://www.linkedin.com/in/jeseryl-mae-comia-430591311/" >Jeseryl Mae Comia</a></td>
+  </tr>
+  <tr>
+    <td> <img src="https://github.com/JeserylMae/JeserylMae/blob/main/assets/email-24.png"/> </td>
+    <td> ms.comiajeserylmae.15@gmail.com </td>
   </tr>
 </table>
 
-| <h1 align="left"> 💫 About Me: </h1> <p align="left"> 🖐️Hi! I am Jesay, a computer science student <br> who's dedicated to learn programming. <br> 📖 I’m currently learning Python & C++<br>💻 How to reach me: 7mercadejas.jryll007@gmail.com</p> | <h3 align="left"> ✍️ Random Dev Quote </h3> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/> |
-| -------- |:------------:|
-| <h2 align="left"> 🌐 Socials: </h2> [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Jesay) <br> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) <b> Jeseryl Mae Comia </b> <br> ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white) <b> Jesayryll Mercadejas </b> <p align="center" ><img src="https://github.com/JeserylMae/JeserylMae/blob/main/import-cfvost.png" width="450px" /> </p> | <h1 align="left"> 📊 GitHub Stats: </h1> <img src="https://github-readme-stats-r02xcyfd2-jeserylmae.vercel.app/api/top-langs/?username=JeserylMae&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="100%"/> |
-| <h1 align="left"> 💻 Tech Stack: </h1> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) <br> ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) <br> ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) | <img src="https://github-readme-stats-r02xcyfd2-jeserylmae.vercel.app/api?username=JeserylMae&theme=radical&hide_border=false&include_all_commits=false&count_private=true" width="100%"> |
-| <h3 align="left"> 🔝 Top Contributed Repository </h3> <img src="https://github-contributor-stats.vercel.app/api?username=JeserylMae&limit=5&theme=radical&combine_all_yearly_contributions=true" width="100%"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeserylMae&theme=radical&hide_border=false" width="100%" /> |
+<h3> 🪛Technologies & Tools: </h3>
+<table >
+  <tr>
+    <td> <img alt="Static Badge" src="https://img.shields.io/badge/Python-%23FF2C6A?style=for-the-badge&logo=python&logoColor=%23ffffff&logoSize=auto"> </td>
+    <td> <img alt="Static Badge" src="https://img.shields.io/badge/Java-%233D3839?style=for-the-badge&logo=%233776AB&logoColor=%23ffffff&logoSize=auto"> </td>
+    <td> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23FF2C6A?style=for-the-badge&logo=javascript&logoColor=%23ffffff&logoSize=auto"> </td>
+    <td> <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%233D3839?style=for-the-badge&logo=cplusplus&logoColor=%23ffffff&logoSize=auto"> </td>
+    <td> <img alt="Static Badge" src="https://img.shields.io/badge/-%23FF2C6A?style=for-the-badge&logo=c&logoColor=%23ffffff&logoSize=auto"> </td>
+    <td> <img alt="Static Badge" src="https://img.shields.io/badge/cSharp-%233D3839?style=for-the-badge&logoColor=%23ffffff&logoSize=auto"> </td>
+    <td> <img alt="Static Badge" src="https://img.shields.io/badge/dart-%23FF2C6A?style=for-the-badge&logo=dart&logoColor=%23ffffff&logoSize=auto"> </td>
+    <td> <img alt="Static Badge" src="https://img.shields.io/badge/Parrot_OS-%233D3839?style=for-the-badge&logo=parrotsecurity&logoColor=%23ffffff&logoSize=auto"> </td>
+  </tr>
+  <tr>
+    <td> <img alt="Static Badge" src="https://img.shields.io/badge/flutter-%233D3839?style=for-the-badge&logo=flutter&logoColor=%23ffffff&logoSize=auto"> </td>
+    <td> <img alt="Static Badge" src="https://img.shields.io/badge/css-%23FF2C6A?style=for-the-badge&logo=css3&logoColor=%23ffffff&logoSize=auto"> </td>
+    <td> <img alt="Static Badge" src="https://img.shields.io/badge/dotnet-%233D3839?style=for-the-badge&logo=dotnet&logoColor=%23ffffff&logoSize=auto"> </td>
+    <td> <img alt="Static Badge" src="https://img.shields.io/badge/npm-%23FF2C6A?style=for-the-badge&logo=npm&logoColor=%23ffffff&logoSize=auto"> </td>
+    <td> <img alt="Static Badge" src="https://img.shields.io/badge/html-%233D3839?style=for-the-badge&logo=html5&logoColor=%23ffffff&logoSize=auto"> </td>
+    <td> <img alt="Static Badge" src="https://img.shields.io/badge/figma-%23FF2C6A?style=for-the-badge&logo=figma&logoColor=%23ffffff&logoSize=auto"> </td>
+    <td> <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-%233D3839?style=for-the-badge&logo=ubuntu&logoColor=%23ffffff&logoSize=auto"> </td>
+    <td> <img alt="Static Badge" src="https://img.shields.io/badge/-%23FF2C6A?style=for-the-badge&logo=vmware&logoColor=%23ffffff&logoSize=auto"> </td>
+  </tr>
+</table>
 
+<h3 align="left"> 📊 GitHub Stats: </h3> 
+<!-- <div align="center">
+<img src="https://github-readme-stats-r02xcyfd2-jeserylmae.vercel.app/api?username=JeserylMae&theme=radical&hide_border=false&include_all_commits=false&count_private=true" width="50%">  
+<img src="https://github-readme-stats-r02xcyfd2-jeserylmae.vercel.app/api/top-langs/?username=JeserylMae&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="50%"/>
+</div> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeserylMae&theme=radical&hide_border=false" width="50%"/> 
 
 <img src="https://github.com/JeserylMae/JeserylMae/blob/main/Computer%20Science.png" width="100%" />
