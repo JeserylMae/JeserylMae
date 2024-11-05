@@ -10,15 +10,13 @@ I'm a third-year computer science student with a strong ambition to become a sof
 
 
 <h3> 📲Socials:</h3>
-<div style="display: flex; flex-direction: row;">
-  <div style="display: flex; flex-direction: row">
-    <img src="https://github.com/JeserylMae/JeserylMae/blob/main/assets/icons8-facebook-24.png"/>
-    <p> Facebook: </p>
-  </div>
-  <p>Jeseryl Mae D. Comia</p>
-</div>
- LinkedIn Jeseryl Mae D. Comia
-| dhfgjsd | dsjhf | jfhe |
+<table style="width: 100%; border: 0px solid black;">
+  <tr>
+    <td> <img src="https://github.com/JeserylMae/JeserylMae/blob/main/assets/icons8-facebook-24.png"/> </td>
+    <td> Facebook </td>
+    <td> Jeseryl Mae D. Comia </td>
+  </tr>
+</table>
 
 | <h1 align="left"> 💫 About Me: </h1> <p align="left"> 🖐️Hi! I am Jesay, a computer science student <br> who's dedicated to learn programming. <br> 📖 I’m currently learning Python & C++<br>💻 How to reach me: 7mercadejas.jryll007@gmail.com</p> | <h3 align="left"> ✍️ Random Dev Quote </h3> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/> |
 | -------- |:------------:|
