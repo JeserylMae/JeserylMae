@@ -12,9 +12,9 @@ I'm a third-year computer science student with a strong ambition to become a sof
 <h3> 📲Socials:</h3>
 <table style="width: 100%; border: none;">
   <tr>
-    <td> <img src="https://github.com/JeserylMae/JeserylMae/blob/main/assets/icons8-facebook-24.png"/> </td>
-    <td> Facebook </td>
-    <td> Jeseryl Mae D. Comia </td>
+    <td style="border: none;"> <img src="https://github.com/JeserylMae/JeserylMae/blob/main/assets/icons8-facebook-24.png"/> </td>
+    <td style="border: none;"> Facebook </td>
+    <td style="border: none;"> Jeseryl Mae D. Comia </td>
   </tr>
 </table>
  LinkedIn Jeseryl Mae D. Comia
