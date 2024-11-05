@@ -10,13 +10,13 @@ I'm a third-year computer science student with a strong ambition to become a sof
 
 
 <h3> 📲Socials:</h3>
-<table style="width: 100%; border: none;">
-  <tr>
-    <td style="border: none;"> <img src="https://github.com/JeserylMae/JeserylMae/blob/main/assets/icons8-facebook-24.png"/> </td>
-    <td style="border: none;"> Facebook </td>
-    <td style="border: none;"> Jeseryl Mae D. Comia </td>
-  </tr>
-</table>
+<div style="display: flex; flex-direction: row;">
+  <div style="display: flex; flex-direction: row">
+    <img src="https://github.com/JeserylMae/JeserylMae/blob/main/assets/icons8-facebook-24.png"/>
+    <p> Facebook: </p>
+  </div>
+  <p>Jeseryl Mae D. Comia</p>
+</div>
  LinkedIn Jeseryl Mae D. Comia
 | dhfgjsd | dsjhf | jfhe |
 
