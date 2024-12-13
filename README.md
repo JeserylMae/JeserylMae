@@ -5,7 +5,7 @@
 
 <h3> 🔖About Me:</h3>
 <p> 
-I'm a third-year computer science student with a strong ambition to become a software engineer. With a foundation in cybersecurity and a passion for design, I aspire to create applications that are not only visually engaging but also secure, ensuring both functionality and protection for users.
+I'm a computer science student with a strong ambition to become a software engineer. With a foundation in cybersecurity and a passion for design, I aspire to create applications that are not only visually engaging but also secure, ensuring both functionality and protection for users.
 </p>
 
 
