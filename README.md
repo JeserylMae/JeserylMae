@@ -49,9 +49,9 @@ I'm a computer science student with a strong ambition to become an expert in sof
 <h3 align="left"> 📊 GitHub Stats: </h3> 
 <!-- <div align="center"> -->
 <!-- <img src="https://github-readme-stats-r02xcyfd2-jeserylmae.vercel.app/api?username=JeserylMae&theme=radical&hide_border=false&include_all_commits=false&count_private=true" width="50%">   -->
-<!-- <img src="https://github-readme-stats-r02xcyfd2-jeserylmae.vercel.app/api/top-langs/?username=JeserylMae&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="50%"/> -->
+<img src="https://github-readme-stats-r02xcyfd2-jeserylmae.vercel.app/api/top-langs/?username=JeserylMae&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="50%"/> 
 <!--</div> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeserylMae&theme=radical&hide_border=false" width="70%"/>  
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeserylMae&theme=radical&hide_border=false" width="70%"/>   -->
 
 
 <img src="https://github.com/JeserylMae/JeserylMae/blob/main/Computer%20Science.png" width="100%" />
