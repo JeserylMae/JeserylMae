@@ -20,7 +20,7 @@
 
 <!-- Tech Stacks -->
 <h2> <img alt="" width="42px" src="https://github.com/JeserylMae/JeserylMae/blob/main/assets/robot.png"> Technologies & Tools: </h2>
-  <h5> Programming Languages </h5>
+  <h5> Programming Languages & Frameworks </h5>
   <p>
     <img alt="Static Badge" src="https://img.shields.io/badge/C-%23FF6E96?style=for-the-badge&logo=c&logoColor=%23ffffff&logoSize=auto"> 
     <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%23CC8196?style=for-the-badge&logo=cplusplus&logoColor=%23ffffff&logoSize=auto"> 
@@ -33,10 +33,6 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-%23664F55?style=for-the-badge&logo=nodedotjs&logoColor=%23ffffff&logoSize=auto"> 
     <img alt="Static Badge" src="https://img.shields.io/badge/Python-%23FF6E96?style=for-the-badge&logo=python&logoColor=%23ffffff&logoSize=auto"> 
     <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%23CC8196?style=for-the-badge&logo=typescript&logoColor=%23ffffff&logoSize=auto"> 
-  </p>
-
-  <h5> Frameworks </h5>
-  <p>
     <img alt="Static Badge" src="https://img.shields.io/badge/Angular-%23FF6E96?style=for-the-badge&logo=angular&logoColor=%23ffffff&logoSize=auto"> 
     <img alt="Static Badge" src="https://img.shields.io/badge/.NET-%23CC8196?style=for-the-badge&logo=dotnet&logoColor=%23ffffff&logoSize=auto"> 
     <img alt="Static Badge" src="https://img.shields.io/badge/Express.js-%23664F55?style=for-the-badge&logo=express&logoColor=%23ffffff&logoSize=auto"> 
@@ -46,7 +42,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind_CSS-%23FF6E96?style=for-the-badge&logo=tailwindcss&logoColor=%23ffffff&logoSize=auto"> 
   </p>
 
-  <h5> Tools </h5>
+  <h5> Tools & Databases </h5>
   <p>
     <img alt="Static Badge" src="https://img.shields.io/badge/Asana-%23CC8196?style=for-the-badge&logo=asana&logoColor=%23ffffff&logoSize=auto"> 
     <img alt="Static Badge" src="https://img.shields.io/badge/Cloudinary-%23664F55?style=for-the-badge&logo=cloudinary&logoColor=%23ffffff&logoSize=auto"> 
@@ -57,18 +53,6 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Postman-%23CC8196?style=for-the-badge&logo=postman&logoColor=%23ffffff&logoSize=auto"> 
     <img alt="Static Badge" src="https://img.shields.io/badge/Trello-%23664F55?style=for-the-badge&logo=trello&logoColor=%23ffffff&logoSize=auto"> 
     <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-%23FF6E96?style=for-the-badge&logo=ubuntu&logoColor=%23ffffff&logoSize=auto"> 
-  </p>
-
-  <h5> Design Patterns & Architectures </h5>
-  <p>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Don't_Repeat_Yourself_(DRY)-%23CC8196?style=for-the-badge"> 
-    <img alt="Static Badge" src="https://img.shields.io/badge/Model_View_Controller_(MVC)-%23664F55?style=for-the-badge"> 
-    <img alt="Static Badge" src="https://img.shields.io/badge/Model_View_Presenter_(MVP)-%23FF6E96?style=for-the-badge"> 
-    <img alt="Static Badge" src="https://img.shields.io/badge/Singleton_Pattern-%23CC8196?style=for-the-badge"> 
-  </p>
-
-  <h5> Databases </h5>
-  <p>
     <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-%23664F55?style=for-the-badge&logo=firebase&logoColor=%23ffffff&logoSize=auto"> 
     <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%23FF6E96?style=for-the-badge&logo=mysql&logoColor=%23ffffff&logoSize=auto"> 
     <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-%23CC8196?style=for-the-badge&logo=postgresql&logoColor=%23ffffff&logoSize=auto"> 
